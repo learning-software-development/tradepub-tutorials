@@ -1,0 +1,23 @@
+{
+  "name": "jump-start-html5-basics",
+  "version": "0.1.0",
+  "description": "Learning HTML5 basics",
+  "main": "index.index",
+  "scripts": {
+    "start:structure": "http-server -p 8000 basics/html-structure/",
+    "start:form": "http-server -p 8000 basics/html-form/",
+    "start:audio": "http-server -p 8000 multimedia/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tutorial",
+    "tradepub",
+    "ebook",
+    "html5"
+  ],
+  "author": "Quintin Henn <quintin.henn@gmail.com> (http://skerwe.web.za)",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
