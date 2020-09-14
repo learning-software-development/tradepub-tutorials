@@ -7,10 +7,11 @@ eBook tutorials from [TradePub](https://www.tradepub.com) that I completed to le
 
 ## :beginner: eBook Tutorials
 
-- :heavy_exclamation_mark: [Jump Start HTML5](jump-start-html5)
-- :heavy_exclamation_mark: [Jump Start Node.js](jump-start-nodejs)
-- :construction: [Jump Start Responsive Web Design](jump-start-responsive-web-design)
+- :o: [Jump Start HTML5](jump-start-html5/)
+- :heavy_exclamation_mark: [Jump Start Node.js](jump-start-nodejs/)
+- :construction: [Jump Start Responsive Web Design](jump-start-responsive-web-design/)
 - :heavy_check_mark: Jump Start GIT
+- :heavy_check_mark: Learning Markdown -- write for the web, faster
 
 ## :page_with_curl: License
 
