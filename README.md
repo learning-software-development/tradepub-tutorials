@@ -12,6 +12,7 @@ eBook tutorials from [TradePub](https://www.tradepub.com) that I completed to le
 - :construction: [Jump Start Responsive Web Design](jump-start-responsive-web-design/)
 - :heavy_check_mark: Jump Start GIT
 - :heavy_check_mark: Learning Markdown -- write for the web, faster
+- :o: [Programming a Game with Unity: A Beginner's Guide](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Programming-a-Game-with-Unity) :rocket:
 
 ## :page_with_curl: License
 
