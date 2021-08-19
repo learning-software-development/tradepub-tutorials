@@ -9,12 +9,12 @@ eBook tutorials from [TradePub](https://www.tradepub.com) that I completed to le
 
 ### Web Development eBooks
 
-- :o: [Jump Start HTML5](jump-start-html5/)
+- :heavy_check_mark: [Jump Start HTML5](jump-start-html5/)
 - :construction: [Jump Start Responsive Web Design](jump-start-responsive-web-design/)
 
 ### Software Development eBooks
 
-- :heavy_exclamation_mark: [Jump Start Node.js](jump-start-nodejs/)
+- :heavy_check_mark: [Jump Start Node.js](jump-start-nodejs/)
 
 ### Game Development eBooks
 
