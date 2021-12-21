@@ -19,6 +19,7 @@ eBook tutorials from [TradePub](https://www.tradepub.com) that I completed to le
 ### Game Development eBooks
 
 - :o: [Programming a Game with Unity: A Beginner's Guide](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Programming-a-Game-with-Unity) :rocket:
+- :o: [Invent Your Own Computer Games with Python](https://github.com/learning-game-development/learning-python-game-development/tree/master/invent-your-own-computer-games-with-python) :rocket:
 
 ### Other Development eBooks
 
