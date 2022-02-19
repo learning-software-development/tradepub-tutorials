@@ -1,0 +1,25 @@
+{
+  "name": "jump-start-responsive-web-design",
+  "version": "0.1.0",
+  "description": "Jump Start Responsive Web Design",
+  "main": "main.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [
+    "learning",
+    "responsive",
+    "web"
+  ],
+  "author": "Quintin Henn (http://skerwe.web.za)",
+  "license": "ISC",
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "maintained node versions"
+  ],
+  "dependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
